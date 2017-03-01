@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    },
+    "terminal.integrated.shellArgs.osx": [
+        "-l"
+    ],
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": false,
+    "editor.wordWrap": false,
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true
+}
